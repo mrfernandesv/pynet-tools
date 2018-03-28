@@ -8,7 +8,7 @@ def help():
     print "--------------------------------------------------------"
     print "-------------PYNET-TOOLS - finddirectories.py-----------"
     print "--------------------------------------------------------"
-    print "--------usage: ./finddirectories.py -s site.com.br------"
+    print "---usage: ./finddirectories.py -s site.com.br wordlist--"
     print "--------------------------------------------------------"
     print "--------------------------------------------------------"
     sys.exit(1)
